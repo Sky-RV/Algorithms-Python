@@ -1,4 +1,4 @@
-def inseration(myList):
+def inseration_sort(myList):
     for i in range(1, len(myList)):
         key = myList[i]
         j = i - 1
@@ -13,6 +13,6 @@ myList = input("Enter your list : ")
 myList = myList.split()
 myList = [int(x) for x in myList]
 
-inseration(myList)
+inseration_sort(myList)
 
 print(myList)
