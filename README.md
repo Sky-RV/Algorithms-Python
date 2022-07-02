@@ -13,4 +13,3 @@ Sorts :
     9. Counting Sort
     10. Gnome Sort
     11. Heap Sort
-    12. Natural Sort
