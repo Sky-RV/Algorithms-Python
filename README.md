@@ -7,3 +7,10 @@ Sorts :
     4. Quick Sort
     5. Tree Sort
     6. Shell Sort
+
+    7. Selection Sort
+    8. Bucket Sort
+    9. Counting Sort
+    10. Gnome Sort
+    11. Heap Sort
+    12. Natural Sort
