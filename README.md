@@ -13,3 +13,17 @@ Sorts :
     9. Counting Sort
     10. Gnome Sort
     11. Heap Sort
+
+Searchs :
+    1. Linear Search
+    2. Binary Search
+    3. Jump Search
+    4. Fibonacci Search
+    5. Exponential Search
+
+    6. Interpolation Search
+    7. Binary Tree Search
+    8. Bouble Linear Search
+    9. Double Linear Search Recursive
+    10. Hill Climbing Search
+    11. Quick Search
